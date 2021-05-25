@@ -1,0 +1,15 @@
+.DogList img {
+    width: 40%;
+    border-radius: 50%;
+    position: relative;
+    left: 30%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.DogList h2 {
+    text-decoration: none;
+    top: 50px;
+}

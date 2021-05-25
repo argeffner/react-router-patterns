@@ -1,0 +1,31 @@
+.NewColorForm {
+    background: linear-gradient(124deg, #76443c, #8a1515, #987e27, #1de840, #1ddde8, #2b1de8, #730b7d);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.NewColorForm form {
+    width: 17%;
+    background-color: rgb(58, 53, 42);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.NewColorForm form input {
+    border-radius: 5px;
+    padding: 5px;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.NewColorForm form button {
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    align-items: center;
+    color: white;
+    background-color: purple;
+}

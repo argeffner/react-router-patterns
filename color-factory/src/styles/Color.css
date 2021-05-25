@@ -1,0 +1,26 @@
+.Color {
+    text-align: center;
+    color: white;
+    justify-content: center;
+    background-color: rgb(40, 17, 31);
+    padding: 15px;
+}
+
+.Color a {
+    text-align: center;
+    color: rgb(124, 205, 206);
+    font-weight: bold;
+    text-shadow: 0 0 3px #3a0202, 0 0 5px #151541;
+}
+
+.main{
+    text-align: center;
+    position: relative;
+    color: whitesmoke;
+    font-weight: bold;
+    background-color: black;
+    width: 10%;
+    padding: 15px;
+    border-radius: 15px;
+    left: 44%;
+}
